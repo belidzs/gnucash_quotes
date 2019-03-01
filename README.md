@@ -1,4 +1,4 @@
-# Alpha Vantage to GnuCash price downloader
+# Alpha Vantage to GnuCash quote downloader
 
 This script can import daily stock and forex quotes from [Alpha Vantage](https://www.alphavantage.co/) and insert them 
 into [GnuCash](https://gnucash.org/)'s database.
